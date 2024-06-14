@@ -1,0 +1,4 @@
+Transaction hash: 
+at1aw9maxu2qd6wrdw9qjs2569pv705hyhej4ygg6e5tn8hz0u8pvzqv49syg
+
+Program hash:hello_world_fab7b075.aleo
